@@ -1,1 +1,1 @@
-Chess game for two player 
+Chess game for two players
